@@ -1,5 +1,5 @@
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
 }
 
@@ -176,6 +176,10 @@ h1.name_main {
 .something a {
   margin-left: 10px;
   text-decoration: none;
+}
+
+.something a:hover{
+  color:red;
 }
 
 /*-------Contact------*/
